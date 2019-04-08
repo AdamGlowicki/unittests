@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecb86ec0-8a99-4a9e-8e9f-33167798d91e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/MealTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/OrderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/adamglowicki/test/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/adamglowicki/test/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/adamglowicki/test/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/adamglowicki/test/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/MealTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/MealTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/adamglowicki/test/MealTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/adamglowicki/test/MealTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/adamglowicki/test/AccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+              <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,8 +70,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="153">
+              <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
+              <folding>
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,8 +83,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/adamglowicki/test/MealTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            <state relative-caret-position="324">
+              <caret line="61" column="70" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/adamglowicki/test/OrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +127,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -106,11 +139,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Address.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Account.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Order.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/OrderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/adamglowicki/test/MealTest.java" />
       </list>
     </option>
@@ -223,56 +258,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MealTest.referencesToTheSameObjectsShouldBeEqual">
-    <configuration name="AccountTest.checkIfUserIsActive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unittests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adamglowicki.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
-      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.AccountTest" />
-      <option name="METHOD_NAME" value="checkIfUserIsActive" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest.defaultdeliveryAdressShouldBeNullAfrerBeSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unittests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adamglowicki.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
-      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.AccountTest" />
-      <option name="METHOD_NAME" value="defaultdeliveryAdressShouldBeNullAfrerBeSet" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest.newnyCreatedAccountShouldNotHaveDefaultDeliveryAddressSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unittests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adamglowicki.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
-      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.AccountTest" />
-      <option name="METHOD_NAME" value="newnyCreatedAccountShouldNotHaveDefaultDeliveryAddressSet" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MealTest.referencesToTheSameObjectsShouldBeEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MealTest.exceptionShouldBeThrownIdDiscountIsHigherThanPrice">
+    <configuration name="MealTest.exceptionShouldBeThrownIdDiscountIsHigherThanPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittests" />
       <extension name="coverage">
         <pattern>
@@ -282,13 +269,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
       <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.MealTest" />
-      <option name="METHOD_NAME" value="referencesToTheSameObjectsShouldBeEqual" />
+      <option name="METHOD_NAME" value="exceptionShouldBeThrownIdDiscountIsHigherThanPrice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MealTest.shouldReturnDiscountedPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderTest.addingMealToOrderShouldIncreaseOrderSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unittests" />
       <extension name="coverage">
         <pattern>
@@ -297,8 +284,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
-      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.MealTest" />
-      <option name="METHOD_NAME" value="shouldReturnDiscountedPrice" />
+      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.OrderTest" />
+      <option name="METHOD_NAME" value="addingMealToOrderShouldIncreaseOrderSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest.mealsShouldBeInCorrectOrderAfterAddingThemToOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamglowicki.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
+      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.OrderTest" />
+      <option name="METHOD_NAME" value="mealsShouldBeInCorrectOrderAfterAddingThemToOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest.removingMealFromOrderShouldDecreseOrderSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamglowicki.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
+      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.OrderTest" />
+      <option name="METHOD_NAME" value="removingMealFromOrderShouldDecreseOrderSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest.testIfTwoMealAreTheSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unittests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adamglowicki.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.adamglowicki.test" />
+      <option name="MAIN_CLASS_NAME" value="com.adamglowicki.test.OrderTest" />
+      <option name="METHOD_NAME" value="testIfTwoMealAreTheSame" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -306,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MealTest.referencesToTheSameObjectsShouldBeEqual" />
-        <item itemvalue="JUnit.MealTest.shouldReturnDiscountedPrice" />
-        <item itemvalue="JUnit.AccountTest.defaultdeliveryAdressShouldBeNullAfrerBeSet" />
-        <item itemvalue="JUnit.AccountTest.checkIfUserIsActive" />
-        <item itemvalue="JUnit.AccountTest.newnyCreatedAccountShouldNotHaveDefaultDeliveryAddressSet" />
+        <item itemvalue="JUnit.MealTest.exceptionShouldBeThrownIdDiscountIsHigherThanPrice" />
+        <item itemvalue="JUnit.OrderTest.testIfTwoMealAreTheSame" />
+        <item itemvalue="JUnit.OrderTest.mealsShouldBeInCorrectOrderAfterAddingThemToOrder" />
+        <item itemvalue="JUnit.OrderTest.removingMealFromOrderShouldDecreseOrderSize" />
+        <item itemvalue="JUnit.OrderTest.addingMealToOrderShouldIncreaseOrderSize" />
       </list>
     </recent_temporary>
   </component>
@@ -328,35 +363,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AccountTest_checkIfUserIsActive - 2019.04.03 at 16h 52m 26s.xml">
-      <configuration name="AccountTest.checkIfUserIsActive" configurationId="JUnit" />
+    <history-entry file="OrderTest_testAssertArrayEqyals - 2019.04.08 at 19h 07m 14s.xml">
+      <configuration name="OrderTest.testAssertArrayEqyals" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MealTest_referencesToTheSameObjectsShouldBeEqual - 2019.04.03 at 16h 54m 11s.xml">
-      <configuration name="MealTest.referencesToTheSameObjectsShouldBeEqual" configurationId="JUnit" />
+    <history-entry file="OrderTest_mealListShouldBeEmptyAfterCreationOrder - 2019.04.08 at 19h 12m 23s.xml">
+      <configuration name="OrderTest.mealListShouldBeEmptyAfterCreationOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MealTest_referencesToTheSameObjectsShouldBeEqual - 2019.04.03 at 16h 54m 38s.xml">
-      <configuration name="MealTest.referencesToTheSameObjectsShouldBeEqual" configurationId="JUnit" />
+    <history-entry file="OrderTest_addingMealToOrderShouldIncreaseOrderSize - 2019.04.08 at 19h 15m 44s.xml">
+      <configuration name="OrderTest.addingMealToOrderShouldIncreaseOrderSize" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MealTest_referencesDiffrentObjectsShouldNotBeEqual - 2019.04.03 at 16h 56m 26s.xml">
-      <configuration name="MealTest.referencesDiffrentObjectsShouldNotBeEqual" configurationId="JUnit" />
+    <history-entry file="OrderTest_addingMealToOrderShouldIncreaseOrderSize - 2019.04.08 at 19h 18m 37s.xml">
+      <configuration name="OrderTest.addingMealToOrderShouldIncreaseOrderSize" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MealTest_twoMealsShouldBeEqualWhenPriceAndNameAreTheSame - 2019.04.03 at 17h 03m 04s.xml">
-      <configuration name="MealTest.twoMealsShouldBeEqualWhenPriceAndNameAreTheSame" configurationId="JUnit" />
+    <history-entry file="OrderTest_removingMealFromOrderShouldDecreseOrderSize - 2019.04.08 at 19h 21m 33s.xml">
+      <configuration name="OrderTest.removingMealFromOrderShouldDecreseOrderSize" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountTest_newnyCreatedAccountShouldNotHaveDefaultDeliveryAddressSet - 2019.04.08 at 16h 21m 16s.xml">
-      <configuration name="AccountTest.newnyCreatedAccountShouldNotHaveDefaultDeliveryAddressSet" configurationId="JUnit" />
+    <history-entry file="OrderTest_removingMealFromOrderShouldDecreseOrderSize - 2019.04.08 at 19h 22m 22s.xml">
+      <configuration name="OrderTest.removingMealFromOrderShouldDecreseOrderSize" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountTest_defaultdeliveryAdressShouldBeNullAfrerBeSet - 2019.04.08 at 16h 25m 52s.xml">
-      <configuration name="AccountTest.defaultdeliveryAdressShouldBeNullAfrerBeSet" configurationId="JUnit" />
+    <history-entry file="OrderTest_mealsShouldBeInCorrectOrderAfterAddingThemToOrder - 2019.04.08 at 19h 25m 31s.xml">
+      <configuration name="OrderTest.mealsShouldBeInCorrectOrderAfterAddingThemToOrder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountTest_checkIfUserIsActive - 2019.04.08 at 18h 52m 58s.xml">
-      <configuration name="AccountTest.checkIfUserIsActive" configurationId="JUnit" />
+    <history-entry file="OrderTest_testIfTwoMealAreTheSame - 2019.04.08 at 19h 27m 35s.xml">
+      <configuration name="OrderTest.testIfTwoMealAreTheSame" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountTest_defaultdeliveryAdressShouldBeNullAfrerBeSet - 2019.04.08 at 18h 55m 27s.xml">
-      <configuration name="AccountTest.defaultdeliveryAdressShouldBeNullAfrerBeSet" configurationId="JUnit" />
+    <history-entry file="MealTest_exceptionShouldBeThrownIdDiscountIsHigherThanPrice - 2019.04.08 at 20h 38m 05s.xml">
+      <configuration name="MealTest.exceptionShouldBeThrownIdDiscountIsHigherThanPrice" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MealTest_shouldReturnDiscountedPrice - 2019.04.08 at 18h 57m 04s.xml">
-      <configuration name="MealTest.shouldReturnDiscountedPrice" configurationId="JUnit" />
+    <history-entry file="MealTest_exceptionShouldBeThrownIdDiscountIsHigherThanPrice - 2019.04.08 at 20h 38m 30s.xml">
+      <configuration name="MealTest.exceptionShouldBeThrownIdDiscountIsHigherThanPrice" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -377,7 +412,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32839838" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -420,27 +455,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/adamglowicki/test/AccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/adamglowicki/test/OrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adamglowicki/test/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="23" column="86" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
+          <folding>
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.2/junit-jupiter-api-5.3.2.jar!/org/junit/jupiter/api/function/Executable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/adamglowicki/test/MealTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        <state relative-caret-position="324">
+          <caret line="61" column="70" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
